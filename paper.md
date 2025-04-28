@@ -372,7 +372,7 @@ Want to see what that looks like?
 
 Take a look at this map:
 
-[![List of countries by total fertility rate - Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Total_Fertility_Rate_Map_by_Country.svg/1200px-Total_Fertility_Rate_Map_by_Country.svg.png)
+![List of countries by total fertility rate - Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Total_Fertility_Rate_Map_by_Country.svg/1200px-Total_Fertility_Rate_Map_by_Country.svg.png)
 
 At first glance, it's just a sea of dark reds and blues. 
 But what this map actually shows is total fertility rate:
