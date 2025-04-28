@@ -493,7 +493,3 @@ I'll leave you with a quote that I touched on in *Even in Fiction We Miss the Po
 	"The mystery of life isn't a problem to be solved, but a reality to be experienced." 
 	-- Frank Herbert, Dune
 
-
-—
-*Written by*
-**Alexander De Saram · 杨舜涛**
