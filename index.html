@@ -111,6 +111,26 @@
         margin-right: 0;
       }
     }
+    /* 1) make all four “section‐titles” baseline-align  */
+    .grid {
+      align-items: baseline;
+    }
+    
+    /* 2) push the entire arrow column to the right edge of its grid cell */
+    .arrow-col {
+      justify-self: end;    /* grid-item alignment */
+      text-align: right;    /* also right-justify its contents */
+    }
+    
+    /* 3) ensure the little arrows themselves line up under “[2]” */
+    .arrow-col ul {
+      margin: 0;
+      padding: 0;
+      list-style: none;
+      /* (you already have these, but if your UL has any extra padding 
+         or left-indent, this will clear it) */
+    }
+
   </style>
 </head>
 
