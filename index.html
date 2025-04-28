@@ -83,17 +83,15 @@
     .teams-col ul, .year-col ul {
       list-style: none; margin: 0; padding: 0;
     }
-    .arrow-text {
-      font-family: "Arial", "Helvetica Neue", Helvetica, sans-serif;
-      font-size: 1rem;
-      line-height: 1;
+    .arrow-svg {
       display: inline-block;
-      transform: translateY(-1px);
-      font-weight: normal;
-      font-style: normal;
-      text-rendering: optimizeLegibility;
-      font-variant-ligatures: none; /* ← ADD THIS */
+      vertical-align: middle;
+      width: 0.8rem;
+      height: 0.8rem;
+      margin-left: 0.2rem;
+      stroke: currentColor; /* matches link color */
     }
+
 
 
     .teams-col .dot {
@@ -103,7 +101,7 @@
     }
     .teams-col .dot:hover { transform: scale(1.2); }
     .contact-col a, .arrow-col a { text-decoration: none; color: inherit; }
-    .contact-col a:hover, .arrow-col a:hover {}
+    .contact-col a:hover {text-decoration: underline;}, .arrow-col a:hover
     .arrow-col { text-align: center; }
     .year-col { text-align: right; color: #666; }
 
@@ -180,10 +178,31 @@
         <div class="arrow-col">
           <div class="section-title">[2]</div>
           <ul>
-            <li><a href="mailto:alex@berkeley.edu"><span class="arrow-text">↗</span></a></li>
-            <li><a href="https://linkedin.com/in/alexdesaram" target="_blank"><span class="arrow-text">↗</span></a></li>
-            <li><a href="https://github.com/alex-desaram" target="_blank"><span class="arrow-text">↗</span></a></li>
-            <li><a href="/the-case-for-valuing-life/"><span class="arrow-text">↗</span></a></li>
+            <li><a href="mailto:alex@berkeley.edu"><span class="arrow-svg" aria-hidden="true">
+  <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <line x1="7" y1="17" x2="17" y2="7"></line>
+    <polyline points="7 7 17 7 17 17"></polyline>
+  </svg>
+</span></a></li>
+            <li><a href="https://linkedin.com/in/alexdesaram"><span class="arrow-svg" aria-hidden="true">
+  <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <line x1="7" y1="17" x2="17" y2="7"></line>
+    <polyline points="7 7 17 7 17 17"></polyline>
+  </svg>
+</span></a></li>
+            <li><a href="https://github.com/alex-desaram"><span class="arrow-svg" aria-hidden="true">
+  <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <line x1="7" y1="17" x2="17" y2="7"></line>
+    <polyline points="7 7 17 7 17 17"></polyline>
+  </svg>
+</span></a></li>
+            <li><a href="/the-case-for-valuing-life/"><span class="arrow-svg" aria-hidden="true">
+  <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <line x1="7" y1="17" x2="17" y2="7"></line>
+    <polyline points="7 7 17 7 17 17"></polyline>
+  </svg>
+</span></a></li>
+
           </ul>
         </div>
 
