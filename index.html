@@ -7,30 +7,29 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Alexander De Saram · 杨舜涛</title>
   <style>
-    /* Fade-in animation */
+    /* Fade-in */
     @keyframes fadeIn {
       from { opacity: 0; transform: translateY(30px); }
       to   { opacity: 1; transform: translateY(0); }
     }
 
-    /* Make body fill viewport & set up column flex */
+    /* fill viewport & set up column flex */
     html, body {
       height: 100%;
       margin: 0;
       padding: 0;
     }
     body {
-      background: #fff;
       display: flex;
       flex-direction: column;
       align-items: center;
       min-height: 100vh;
+      background: #fff;
       font-family: Georgia, "Times New Roman", Times, serif;
-      color: #222;
-      line-height: 1.5;
+      color: #222; line-height: 1.5;
     }
 
-    /* Main content stretches to push footer down */
+    /* main area stretches to push footer down */
     .main {
       display: flex;
       flex-direction: column;
@@ -41,63 +40,47 @@
       animation: fadeIn 0.6s ease-out;
     }
 
+    /* center everything except footer */
+    .content {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+    }
+
     h1 {
       font-family: Arial, Helvetica, sans-serif;
       font-size: 1.5rem; margin: 0; color: #111;
     }
-
     .tagline {
       font-family: Arial, Helvetica, sans-serif;
       font-size: 0.95rem; color: #555;
       margin-top: 0.25rem;
     }
-
     .header {
       display: flex; justify-content: space-between; align-items: flex-start;
       margin-bottom: 1rem;
     }
-
-    .header .page { font-size: 0.9rem; color: #666; }
-
     .intro p { margin: 0 0 0.75rem; }
-
     hr {
       border: none; height: 1px; background: #eee;
       margin: 2rem 0;
     }
-
     .grid {
       display: grid;
       grid-template-columns: auto auto auto auto;
       column-gap: 1rem; align-items: start;
       font-size: 0.95rem;
     }
-
     .section-title {
       font-family: Arial, Helvetica, sans-serif;
       font-size: 0.8rem; text-transform: uppercase;
       color: #444; margin-bottom: 0.5rem;
       letter-spacing: 0.05em;
     }
-
     .contact-col ul, .arrow-col ul,
     .teams-col ul, .year-col ul {
       list-style: none; margin: 0; padding: 0;
-    }
-    .contact-col li, .arrow-col li,
-    .teams-col li, .year-col li { margin-bottom: 0.5rem; }
-
-    .contact-col a, .arrow-col a {
-      color: inherit; text-decoration: none;
-    }
-    .contact-col a:hover, .arrow-col a:hover {
-      text-decoration: underline;
-    }
-
-    .arrow-col { text-align: center; }
-
-    .teams-col li {
-      display: flex; align-items: center;
     }
     .teams-col .dot {
       display: inline-block; width: 0.8rem; height: 0.8rem;
@@ -105,22 +88,21 @@
       transition: transform 0.2s ease;
     }
     .teams-col .dot:hover { transform: scale(1.2); }
-
+    .contact-col a, .arrow-col a { text-decoration: none; color: inherit; }
+    .contact-col a:hover, .arrow-col a:hover { text-decoration: underline; }
+    .arrow-col { text-align: center; }
     .year-col { text-align: right; color: #666; }
 
-    /* Footer is pushed to bottom of .main */
+    /* footer fixed to bottom of .main */
     .footer {
-      margin-top: auto;
       text-align: left;
-      color: #999;
-      font-size: 0.85rem;
+      color: #999; font-size: 0.85rem;
       font-family: 'Courier New', monospace;
     }
 
     @media (max-width: 600px) {
       .grid { grid-template-columns: 1fr 1fr; }
     }
-
     @media (max-width: 400px) {
       .grid { grid-template-columns: 1fr; }
       .arrow-col {
@@ -134,60 +116,62 @@
 
 <body>
   <div class="main">
-    <header class="header">
-      <div>
-        <h1>Alexander De Saram · 杨舜涛</h1>
-        <div class="tagline">设计基础设施与智能 ｜ Bridging Systems &amp; Insights</div>
-      </div>
-      <span class="section-title">[1]</span>
-    </header>
+    <div class="content">
+      <header class="header">
+        <div>
+          <h1>Alexander De Saram · 杨舜涛</h1>
+          <div class="tagline">设计基础设施与智能 ｜ Bridging Systems &amp; Insights</div>
+        </div>
+        <span class="section-title">[1]</span>
+      </header>
 
-    <div class="intro">
-      <p><strong>Alexander</strong> is an undergraduate at UC Berkeley working at the intersection of infrastructure and intelligence—designing systems that are scalable, interpretable, and globally impactful.</p>
-      <p>Currently designing network architecture at Netflix and researching multilingual AI with PKU & DeepSeek. Previously at Cisco.</p>
-    </div>
-
-    <hr />
-
-    <div class="grid">
-      <div class="contact-col">
-        <div class="section-title">Contact │ 联系</div>
-        <ul>
-          <li><a href="mailto:alex@berkeley.edu">Email</a></li>
-          <li><a href="https://linkedin.com/in/alexdesaram" target="_blank">LinkedIn</a></li>
-          <li><a href="https://github.com/alex-desaram" target="_blank">GitHub</a></li>
-          <li><a href="/the-case-for-valuing-life/">Blog</a></li>
-        </ul>
+      <div class="intro">
+        <p><strong>Alexander</strong> is an undergraduate at UC Berkeley working at the intersection of infrastructure and intelligence—designing systems that are scalable, interpretable, and globally impactful.</p>
+        <p>Currently designing network architecture at Netflix and researching multilingual AI with PKU & DeepSeek. Previously at Cisco.</p>
       </div>
 
-      <div class="arrow-col">
-        <div class="section-title">[2]</div>
-        <ul>
-          <li><a href="mailto:alex@berkeley.edu">↗</a></li>
-          <li><a href="https://linkedin.com/in/alexdesaram" target="_blank">↗</a></li>
-          <li><a href="https://github.com/alex-desaram" target="_blank">↗</a></li>
-          <li><a href="/the-case-for-valuing-life/">↗</a></li>
-        </ul>
-      </div>
+      <hr />
 
-      <div class="teams-col">
-        <div class="section-title">Teams │ 团队</div>
-        <ul>
-          <li><span class="dot" style="background:#d81f26;"></span>Netflix</li>
-          <li><span class="dot" style="background:#4d6bfe;"></span>DeepSeek</li>
-          <li><span class="dot" style="background:#208DCD;"></span>CITRIS</li>
-          <li><span class="dot" style="background:#049fd9;"></span>Cisco</li>
-        </ul>
-      </div>
+      <div class="grid">
+        <div class="contact-col">
+          <div class="section-title">Contact │ 联系</div>
+          <ul>
+            <li><a href="mailto:alex@berkeley.edu">Email</a></li>
+            <li><a href="https://linkedin.com/in/alexdesaram" target="_blank">LinkedIn</a></li>
+            <li><a href="https://github.com/alex-desaram" target="_blank">GitHub</a></li>
+            <li><a href="/the-case-for-valuing-life/">Blog</a></li>
+          </ul>
+        </div>
 
-      <div class="year-col">
-        <div class="section-title">[3]</div>
-        <ul>
-          <li>2025–</li>
-          <li>2025–</li>
-          <li>2024–2025</li>
-          <li>2022</li>
-        </ul>
+        <div class="arrow-col">
+          <div class="section-title">[2]</div>
+          <ul>
+            <li><a href="mailto:alex@berkeley.edu">↗</a></li>
+            <li><a href="https://linkedin.com/in/alexdesaram" target="_blank">↗</a></li>
+            <li><a href="https://github.com/alex-desaram" target="_blank">↗</a></li>
+            <li><a href="/the-case-for-valuing-life/">↗</a></li>
+          </ul>
+        </div>
+
+        <div class="teams-col">
+          <div class="section-title">Teams │ 团队</div>
+          <ul>
+            <li><span class="dot" style="background:#d81f26;"></span>Netflix</li>
+            <li><span class="dot" style="background:#4d6bfe;"></span>DeepSeek</li>
+            <li><span class="dot" style="background:#208DCD;"></span>CITRIS</li>
+            <li><span class="dot" style="background:#049fd9;"></span>Cisco</li>
+          </ul>
+        </div>
+
+        <div class="year-col">
+          <div class="section-title">[3]</div>
+          <ul>
+            <li>2025–</li>
+            <li>2025–</li>
+            <li>2024–2025</li>
+            <li>2022</li>
+          </ul>
+        </div>
       </div>
     </div>
 
