@@ -86,9 +86,10 @@
         grid-template-columns: 1fr;
       }
       .arrow-col {
-        text-align: right;
+        display: flex;                 /* make it a flex container */
+        justify-content: flex-end;     /* push the arrows to the right */
+        margin-right: 0;               /* ensure no extra gutter */
       }
-    }
     }
   </style>
 </head>
