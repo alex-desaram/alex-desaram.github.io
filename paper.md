@@ -151,7 +151,8 @@ that they stopped asking *should we?*
 That, to me, is a deep disrespect to life. 
 Not just for their own, but the lives of the people who use their products. 
 
-The lecture introduced us to the ledger of harms, created by the Center for Humane Technology (which I highly encourage you to check out at ledger.humanetech.com). 
+The lecture introduced us to the [ledger of harms](https://ledger.humanetech.com)
+, created by the Center for Humane Technology (which I highly encourage you to check out). 
 It catalogs how profit-driven design has caused real damage: eroding attention spans, worsening mental health, polarizing entire nations, and distorting how we make sense of the world. 
 And as someone who works with AI, I get frustrated when people casually say, 
 "Oh yeah AI will replace people's jobs and increase inequality." 
