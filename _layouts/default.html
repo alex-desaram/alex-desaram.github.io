@@ -3,7 +3,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <link rel="icon" href="shun.png" type="image/png" />
+  <link rel="icon" href="shun.png?v=2" type="image/png" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>{{ page.title }} · Alexander De Saram</title>
   <style>
@@ -46,8 +46,6 @@
       text-decoration: none;
       margin-left: 0;
     }
-    .home:hover {
-    }
 
     /* Article content */
     article {
@@ -81,6 +79,7 @@
         font-size: 1rem;
       }
     }
+
     @media (max-width: 400px) {
       .grid {
         grid-template-columns: 1fr;
@@ -91,21 +90,17 @@
         margin-right: 0;
       }
     }
-      .arrow-col {
-        text-align: right;
-      }
-    }
-    }
   </style>
 </head>
 <body>
   <div class="main">
     <header>
-      <a class="home" href="/">←</a>
+      <a class="home" href="/">← Home</a>
     </header>
     <article>
       {{ content }}
     </article>
+    <div class="footer">New website coming soon.</div>
   </div>
 </body>
 </html>
