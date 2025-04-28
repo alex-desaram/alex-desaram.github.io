@@ -1,8 +1,9 @@
 ---
-title: "The Case for Valuing Life — Loafing Against the Machine《为了珍惜生命》"
+title:
 layout: default
 permalink: /the-case-for-valuing-life/
 ---
+# The Case for Valuing Life — Loafing Against the Machine《为了珍惜生命》
 *Why rest, reflection, and rebellion are the antidotes to a dying world.*
 
 	"The world is moving too fast. Slow down and enjoy the scenery-- or miss life itself."
