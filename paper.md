@@ -1,3 +1,9 @@
+---
+title:
+layout: default
+permalink: /the-case-for-valuing-life/
+---
+
 # The Case for Valuing Life — Loafing Against the Machine《为了珍惜生命》
 *Why rest, reflection, and rebellion are the antidotes to a dying world.*
 
@@ -43,7 +49,7 @@ Lin urges us to reject a rigid schedule for spontaneity.
 To seek out nature as a space to loaf. 
 And to treat loafing as a quiet act of resistance-- against industrialization, against the machine, and against the erasure of the self. 
 
-!Why Do Cats Loaf? · Kinship](https://images.ctfassets.net/sfnkq8lmu5d7/3PAlm8EtPaC2FqNBaCxVI9/67b28c67fe3a633caf4a360d4cfd34d7/2024-08-14_Cat_loaf_-_Hero.jpg?w=1000&h=750&fl=progressive&q=70&fm=jpg)
+![Why Do Cats Loaf? · Kinship](https://images.ctfassets.net/sfnkq8lmu5d7/3PAlm8EtPaC2FqNBaCxVI9/67b28c67fe3a633caf4a360d4cfd34d7/2024-08-14_Cat_loaf_-_Hero.jpg?w=1000&h=750&fl=progressive&q=70&fm=jpg)
 *“The original loafer”*
 
 ---
@@ -108,7 +114,7 @@ Online spaces glorify the 'sigma grindset', idolizing lifestyles inspired by sat
 where Patrick Bateman, a literal psychopath, wakes up at 6am, cranks out 1000 crunches, 500 pushups, a full 12-step skincare routine, 
 and then gets into his cushy Harvard-educated investment banking job. 
 
-!What is Patrick Bateman's skincare regimen in 'American Psycho'? | Tatler  Asia](https://cdn.tatlerasia.com/asiatatler/i/ph/2020/04/28171658-733rvlbrz0011_cover_1920x1008.jpg)
+![What is Patrick Bateman's skincare regimen in 'American Psycho'? | Tatler  Asia](https://cdn.tatlerasia.com/asiatatler/i/ph/2020/04/28171658-733rvlbrz0011_cover_1920x1008.jpg)
 *Satire mistaken for scripture.*
 
 This isn't just unrealistic.
@@ -204,7 +210,7 @@ To be honest, maybe it's a prank Herbert pulled on all of us.
 He builds a story meant to critique our obsession with control, with destiny, with hero worship--
 and the very readers who engage with it fall for the myth he's trying to dismantle.
 
-!My letter to Paul Atreides about DUNE video games](https://www.pointnthink.fr/wp-content/uploads/2024/04/Timothee-Chalamet-en-Paul-Atreides-pour-la-premiere-photo-de-Dune-de-Denis-Villeneuve.jpg)
+![My letter to Paul Atreides about DUNE video games](https://www.pointnthink.fr/wp-content/uploads/2024/04/Timothee-Chalamet-en-Paul-Atreides-pour-la-premiere-photo-de-Dune-de-Denis-Villeneuve.jpg)
 
 ---
 ## When Life Becomes a Formula
@@ -269,7 +275,7 @@ To do what doesn't scale.
 
 We're growing up into a world that rewards execution-- but forgets to teach us how to **dream**.
 
-!What happens if you fail the gaokao? (2016)](https://media.cnn.com/api/v1/images/stellar/prod/160607113328-gaokao-students-china-study-exam-college.jpg?q=w_2754,h_1765,x_0,y_0,c_fill)
+![What happens if you fail the gaokao? (2016)](https://media.cnn.com/api/v1/images/stellar/prod/160607113328-gaokao-students-china-study-exam-college.jpg?q=w_2754,h_1765,x_0,y_0,c_fill)
 
 ---
 ## The Cost of Winning
@@ -368,7 +374,7 @@ Want to see what that looks like?
 
 Take a look at this map:
 
-!List of countries by total fertility rate - Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Total_Fertility_Rate_Map_by_Country.svg/1200px-Total_Fertility_Rate_Map_by_Country.svg.png)
+![List of countries by total fertility rate - Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Total_Fertility_Rate_Map_by_Country.svg/1200px-Total_Fertility_Rate_Map_by_Country.svg.png)
 
 At first glance, it's just a sea of dark reds and blues. 
 But what this map actually shows is total fertility rate:
