@@ -81,7 +81,11 @@
     }
     /* Responsive grid */
     @media (max-width: 600px) { .grid { grid-template-columns: 1fr 1fr; } }
-    @media (max-width: 400px) { .grid { grid-template-columns: 1fr; } }
+    /* down in your existing 400px media query… */
+    @media (max-width: 400px) {.grid { grid-template-columns: 1fr;}
+      .arrow-col { display: flex; justify-content: flex-end; margin-right: 0;
+  }
+}
   </style>
 </head>
 
