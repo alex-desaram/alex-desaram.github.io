@@ -102,7 +102,12 @@
     }
     .teams-col .dot:hover { transform: scale(1.2); }
     .contact-col a, .arrow-col a { text-decoration: none; color: inherit; }
-    .contact-col a:hover {text-decoration: underline;}, .arrow-col a:hover
+    .contact-col a {
+      transition: opacity 0.2s ease;
+    }
+    .contact-col a:hover {
+      opacity: 0.5;
+    }
     .arrow-col { text-align: center; }
     .year-col { text-align: right; color: #666; }
 
@@ -147,6 +152,7 @@
     .tooltip {
       position: relative;
       display: inline-block;
+      margin-bottom: 0.25rem;
     }
     
     .tooltip .tooltip-text {
