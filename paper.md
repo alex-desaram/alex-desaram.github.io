@@ -75,7 +75,7 @@ In Japan, death by overwork is so common it has its own name: 過労死 (*karosh
 And in China, an infamous work schedule dominates entire industries: 
 the *996 system*: working from 9am to 9pm, six days a week. 
 
-!Yellow Cube Houses of Rotterdam: The Ultimate Guide (2025) - Laure Wanders](https://www.laurewanders.com/wp-content/uploads/2018/07/IMG_0275-1.jpg)
+![Yellow Cube Houses of Rotterdam: The Ultimate Guide (2025) - Laure Wanders](https://www.laurewanders.com/wp-content/uploads/2018/07/IMG_0275-1.jpg)
 *(Cube Houses in Rotterdam, where playfulness isn’t just tolerated — it’s built into the skyline.)*
 
 ---
