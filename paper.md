@@ -7,8 +7,8 @@ permalink: /the-case-for-valuing-life/
 # The Case for Valuing Life — Loafing Against the Machine《为了珍惜生命》
 *Why rest, reflection, and rebellion are the antidotes to a dying world.*
 
-	"The world is moving too fast. Slow down and enjoy the scenery-- or miss life itself."
-	-- Lin Yutang, The Importance of Living
+> "The world is moving too fast. Slow down and enjoy the scenery-- or miss life itself."  
+> — Lin Yutang, *The Importance of Living*
 
 I find a lot of different topics deeply interesting-- 
 philosophy, geopolitics, China compared to the West, linguistics, and technology, just to mention a few. 
@@ -28,8 +28,8 @@ and think more deeply about how to live well in a world that's forgetting how to
 
 ## The Wisdom of Loafing
 
-	"The wise man loafs while the fool hustles." 
-	-- Lin Yutang, The Importance of Living
+> "The wise man loafs while the fool hustles."  
+> — Lin Yutang, *The Importance of Living*
 
 Lin Yutang was a Chinese author who briefly taught at Peking University before moving to the United States, where he would eventually settle abroad. 
 
@@ -139,7 +139,7 @@ As a data science major, one of my favorite classes I took at Berkeley was CS 61
 Near the end of the semester, our professor held an optional lecture on ethics. 
 What stuck with me most from the lecture was a question he posed: 
 
-	What will your work's impact on the world be?
+> What will your work's impact on the world be?
 
 He had us compare companies like TikTok and Khan Academy-- not just what they built, but their societal impact, how they made money, and how they treated their users and employees. 
 
@@ -169,8 +169,8 @@ And ordinary people suffer as a result.
 
 I'll leave you with one of the most dystopian quotes I’ve ever come across-- few lines better capture Silicon Valley’s disregard for humanity:
 
-	"AI will probably most likely lead to the end of the world, but in the meantime, there'll be great companies." 
-	-- Sam Altman, CEO of OpenAI
+> "AI will probably most likely lead to the end of the world, but in the meantime, there'll be great companies."  
+> — Sam Altman, CEO of OpenAI
 
 (insert image here)
 *(Source: Center for Humane Technology)*
@@ -490,6 +490,6 @@ And little by little, we make the world more worth living in.
 ---
 I'll leave you with a quote that I touched on in *Even in Fiction We Miss the Point*-- one that continues to guide me:
 
-	"The mystery of life isn't a problem to be solved, but a reality to be experienced." 
-	-- Frank Herbert, Dune
+> "The mystery of life isn't a problem to be solved, but a reality to be experienced."  
+> — Frank Herbert, *Dune*
 
