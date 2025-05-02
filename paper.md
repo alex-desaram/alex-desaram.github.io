@@ -7,13 +7,13 @@ permalink: /the-case-for-valuing-life/
 # The Case for Valuing Life — Loafing Against the Machine《为了珍惜生命》
 *Why rest, reflection, and rebellion are the antidotes to a dying world.*
 
-> "The world is moving too fast. Slow down and enjoy the scenery-- or miss life itself."  
+> "The world is moving too fast. Slow down and enjoy the scenery— or miss life itself."  
 > — Lin Yutang, *The Importance of Living*
 
-I find a lot of different topics deeply interesting-- 
+I find a lot of different topics deeply interesting— 
 philosophy, geopolitics, China compared to the West, linguistics, and technology, just to mention a few. 
 
-For a while, I didn't think there was anything unifying these ideas-- until I read *The Importance of Living* by 林语堂 (*Lín Yǔtáng*). 
+For a while, I didn't think there was anything unifying these ideas— until I read *The Importance of Living* by 林语堂 (*Lín Yǔtáng*). 
 
 While this piece may echo his work, these are all thoughts I've mulled over on high-speed rails, buses, planes, 
 or just lying flat in bed. 
@@ -33,21 +33,21 @@ and think more deeply about how to live well in a world that's forgetting how to
 
 Lin Yutang was a Chinese author who briefly taught at Peking University before moving to the United States, where he would eventually settle abroad. 
 
-He wrote *The Importance of Living* during his time in the States as a critique of the hustle culture gripping a rapidly industrializing 1930s America-- 
+He wrote *The Importance of Living* during his time in the States as a critique of the hustle culture gripping a rapidly industrializing 1930s America—
 and, more broadly, of the West's obsession with productivity. 
 
-In it, he explores the concept of *loafing*-- not to be confused with laziness, but a conscious choice to embrace leisure, reflection, and unstructured time. 
+In it, he explores the concept of *loafing*— not to be confused with laziness, but a conscious choice to embrace leisure, reflection, and unstructured time. 
 
-I like to picture it the way a cat tucks its paws and tail under its body, taking on the shape of a loaf of bread-- 
+I like to picture it the way a cat tucks its paws and tail under its body, taking on the shape of a loaf of bread— 
 pausing to nap, to exist, to simply *be*. 
 
 The book draws deeply from ancient Chinese philosophical ideas, especially those rooted in Taoism:
-concepts such as 无为 (_wú wéi_) -- “effortless action,” and 闲闲 (*xián xiá*) -- "leisurely idleness." 
+concepts such as 无为 (_wú wéi_) — “effortless action,” and 闲闲 (*xián xiá*) — "leisurely idleness." 
 
 These ideas reflect a worldview that prioritizes balance over burnout. 
 Lin urges us to reject a rigid schedule for spontaneity.
 To seek out nature as a space to loaf. 
-And to treat loafing as a quiet act of resistance-- against industrialization, against the machine, and against the erasure of the self. 
+And to treat loafing as a quiet act of resistance— against industrialization, against the machine, and against the erasure of the self. 
 
 ![Why Do Cats Loaf? · Kinship](https://images.ctfassets.net/sfnkq8lmu5d7/3PAlm8EtPaC2FqNBaCxVI9/67b28c67fe3a633caf4a360d4cfd34d7/2024-08-14_Cat_loaf_-_Hero.jpg?w=1000&h=750&fl=progressive&q=70&fm=jpg)
 *“The original loafer”*
@@ -61,11 +61,11 @@ Does Lin Yutang's concerns about the West's obsession over productivity still ap
 But there are pockets that have begun to push back.
 
 In the Mediterranean, countries continue to staunchly defend their *siesta*.
-Italy embraces the art of idleness through *dolce far niente*-- "the sweetness of doing nothing"-- and keeps alive a tradition of evening strolls after dinner simply to pass time. 
+Italy embraces the art of idleness through *dolce far niente*— "the sweetness of doing nothing"— and keeps alive a tradition of evening strolls after dinner simply to pass time. 
 
 Even beyond the Mediterranean, Europe has begun to **institutionalize rest** on both societal and corporate levels. 
 Iceland has successfully implemented a 4-day workweek.
-And the Dutch concept of *niksen*-- the practice of doing nothing-- has found its way into the workplace through dedicated *niksen* spaces, where employees are encouraged to meditate, unwind, and unplug. 
+And the Dutch concept of *niksen*— the practice of doing nothing— has found its way into the workplace through dedicated *niksen* spaces, where employees are encouraged to meditate, unwind, and unplug. 
 
 Meanwhile, the US has not only preserved its hustle culture, but it has **exported** it.
 
@@ -88,16 +88,16 @@ Even if your country has been mentioned, I invite you to think more locally. You
 
 Global trends manifest differently in individual lives. 
 In mine, for instance, having lived briefly in both China and the US, I've found that both countries **equate busyness with virtue** on a social level. 
-Among my Chinese friends at Peking University, one emoji that floats around WeChat a lot-- used to encourage each other, and to flex how hard they're working: 
+Among my Chinese friends at Peking University, one emoji that floats around WeChat a lot— used to encourage each other, and to flex how hard they're working: 
 
 (insert image here)
 
 ~~很想休息~~ 不 你是铁打的 
-(*~~hěnxiǎngxiūxi~~ bù-- nǐ shì tiě dǎ de*)
-"~~I really want to rest~~ No-- you're made of steel"
+(*~~hěnxiǎngxiūxi~~ bù— nǐ shì tiě dǎ de*)
+"~~I really want to rest~~ No— you're made of steel"
 
 Words shape how we see the world.
-In linguistics, we study how language doesn't just reflect thought-- it *influences* it.
+In linguistics, we study how language doesn't just reflect thought— it *influences* it.
 
 When we glorify words like *grind*, *hustle*, or *optimize*, 
 we start seeing rest as wasteful 
@@ -110,7 +110,7 @@ It warps our sense of what a balanced, healthy life should look like.
 
 And in the US, it's no better.
 
-Online spaces glorify the 'sigma grindset', idolizing lifestyles inspired by satire like *American Psycho*-- 
+Online spaces glorify the 'sigma grindset', idolizing lifestyles inspired by satire like *American Psycho*— 
 where Patrick Bateman, a literal psychopath, wakes up at 6am, cranks out 1000 crunches, 500 pushups, a full 12-step skincare routine, 
 and then gets into his cushy Harvard-educated investment banking job. 
 
@@ -131,7 +131,7 @@ It only respects what can be extracted from it.
 ---
 ## When Hustle Becomes Design
 
-This obsession with productivity doesn't just shape our daily lives-- it's embedded in our systems. 
+This obsession with productivity doesn't just shape our daily lives— it's embedded in our systems. 
 In our technologies. 
 In the very ways we build and interact with the world. 
 
@@ -141,12 +141,12 @@ What stuck with me most from the lecture was a question he posed:
 
 > What will your work's impact on the world be?
 
-He had us compare companies like TikTok and Khan Academy-- not just what they built, but their societal impact, how they made money, and how they treated their users and employees. 
+He had us compare companies like TikTok and Khan Academy— not just what they built, but their societal impact, how they made money, and how they treated their users and employees. 
 
 As we reasoned through it, something became painfully clear: our society doesn't reward meaningful progress. It rewards control. 
 
 This is evident in the design choices and incentives that drive modern tech.
-Many of these companies-- driven by short-term profits and endless growth became so obsessed over the question of *could we?* 
+Many of these companies— driven by short-term profits and endless growth became so obsessed over the question of *could we?* 
 that they stopped asking *should we?* 
 That, to me, is a deep disrespect to life. 
 Not just for their own, but the lives of the people who use their products. 
@@ -158,7 +158,7 @@ And as someone who works with AI, I get frustrated when people casually say,
 "Oh yeah AI will replace people's jobs and increase inequality." 
 
 While this may be true, that really sucks. Because AI is *not the enemy.* 
-It's a beautiful, powerful innovation-- already accelerating medical breakthroughs, optimizing global networks, and bolstering fields of every kind. 
+It's a beautiful, powerful innovation— already accelerating medical breakthroughs, optimizing global networks, and bolstering fields of every kind. 
 
 The real problem is how we choose to use it.
 If AI creates massive value, companies *shouldn't* be laying off workers. 
@@ -167,7 +167,7 @@ But instead, that value is only captured at the top.
 Because what we call corporate greed... is really just a **deep disrespect for life**.
 And ordinary people suffer as a result.
 
-I'll leave you with one of the most dystopian quotes I’ve ever come across-- few lines better capture Silicon Valley’s disregard for humanity:
+I'll leave you with one of the most dystopian quotes I’ve ever come across— few lines better capture Silicon Valley’s disregard for humanity:
 
 > "AI will probably most likely lead to the end of the world, but in the meantime, there'll be great companies."  
 > — Sam Altman, CEO of OpenAI
@@ -178,23 +178,23 @@ I'll leave you with one of the most dystopian quotes I’ve ever come across-- f
 ---
 ## Even in Fiction We Miss the Point
 
-This obsession with control-- treating life as a formula, glorifying hustle culture, and praising those who 'play the game' well-- has seeped so deeply into our worldview that even our *fiction* reflects it.
+This obsession with control— treating life as a formula, glorifying hustle culture, and praising those who 'play the game' well— has seeped so deeply into our worldview that even our *fiction* reflects it.
 Worse, we often miss the message entirely. 
 
 Take *Dune*, for example.
 I read the books before the second part of the movie came out, having been enraptured by the first film. 
 I was excited about the philosophies, the political struggles, the power structures, the religious critiques.
-But one quote in particular caught me off guard-- something that echoed Kierkegaard's philosophy on dread and destiny. 
+But one quote in particular caught me off guard— something that echoed Kierkegaard's philosophy on dread and destiny. 
 
 At the time, while profound, it seemed out of place.
 Now, I think I understand.
 
-(*I include the quote later in the piece to preserve this section's flow-- keep reading!*)
+(*I include the quote later in the piece to preserve this section's flow— keep reading!*)
 
 *Dune* is full of warnings: about religion, about personality cults, about concentrating too much power in too few hands.
 
 But it's also about what happens when a person can 'solve' life.
-Paul Atreides gains the power of prescience-- to see the future.
+Paul Atreides gains the power of prescience— to see the future.
 And the moment he does, he stops living. 
 
 He becomes a shell of the curious boy who once dreamed of other planets. 
@@ -203,7 +203,7 @@ He's locked into a path he can't escape, constantly sacrificing his autonomy for
 It crushes his spirit.
 He burns out.
 
-And yet-- despite all this-- people around the world glorify him.
+And yet— despite all this— people around the world glorify him.
 They idolize Paul as a visionary, a messianic leader, the ultimate strategist.
 Which is *exactly* what Frank Herbert meant to warn us against.
 
@@ -216,11 +216,11 @@ and the very readers who engage with it fall for the myth he's trying to dismant
 ---
 ## When Life Becomes a Formula
 
-When we treat life like a problem to solve, not only do we lose joy-- we lose the courage to pursue what we love. 
-We create systems where **risk is punished**, creativity is stifled, and people force themselves into paths that don't fit-- just to survive. 
+When we treat life like a problem to solve, not only do we lose joy— we lose the courage to pursue what we love. 
+We create systems where **risk is punished**, creativity is stifled, and people force themselves into paths that don't fit— just to survive. 
 
 Look at China's performance in the Paris 2024 Olympics. 
-They tied with the US for the most gold medals-- an objectively impressive showing. 
+They tied with the US for the most gold medals— an objectively impressive showing. 
 
 But look closer, and you'll notice: nearly all of China's golds came from individual sports. 
 
@@ -237,10 +237,10 @@ It's not a system built to nurture athletes.
 It's a system designed to **manufacture winners**.
 
 And it's why China continues to underperform in team sports. 
-Despite having one of the earliest recorded forms of soccer-- 蹴鞠 (*cù jū*)-- China's modern men's national football team is notoriously bad.
+Despite having one of the earliest recorded forms of soccer— 蹴鞠 (*cù jū*)— China's modern men's national football team is notoriously bad.
 (Though to be fair, corruption and environmental factors don't help.) 
 
-You see the same pattern in the 高考 (*gāokǎo*) -- China's university entrance exam system: 
+You see the same pattern in the 高考 (*gāokǎo*) — China's university entrance exam system: 
 **One path. One chance. One track.**
 
 When a society forces everyone through the same narrow path, 
@@ -254,7 +254,7 @@ Afraid to play.
 Afraid to explore. 
 Afraid to **live fully**. 
 
-And this mindset-- the fear of doing anything that doesn't guarantee success-- 
+And this mindset— the fear of doing anything that doesn't guarantee success— 
 **isn't just a Chinese problem**.
 
 It's a generational one.
@@ -274,31 +274,31 @@ We lose the freedom to experiment.
 To mess up.
 To do what doesn't scale.
 
-We're growing up into a world that rewards execution-- but forgets to teach us how to **dream**.
+We're growing up into a world that rewards execution— but forgets to teach us how to **dream**.
 
 ![What happens if you fail the gaokao? (2016)](https://media.cnn.com/api/v1/images/stellar/prod/160607113328-gaokao-students-china-study-exam-college.jpg?q=w_2754,h_1765,x_0,y_0,c_fill)
 
 ---
 ## The Cost of Winning
 
-We live in an era where our systems-- economic, educational, technological-- have been optimized to *win*. 
+We live in an era where our systems— economic, educational, technological— have been optimized to *win*. 
 But not to act with **integrity**. 
 
 And what does *winning* even mean anymore? 
 It means chasing **metrics** at the expense of **meaning**. 
 
-In education: students are taught to memorize facts and ace exams-- 
+In education: students are taught to memorize facts and ace exams— 
 not to think, reflect, or question. 
 In academia: researchers manipulate data to fit their hypotheses just to get published in a prestigious journal. 
-In economics: companies cut corners to hit quarterly earnings-- instead of building things that last. 
-In tech: platforms are designed to addict-- 
+In economics: companies cut corners to hit quarterly earnings— instead of building things that last. 
+In tech: platforms are designed to addict— 
 not to serve. 
 
-On the national level, countries behave less like communities-- 
+On the national level, countries behave less like communities— 
 and more like corporations: obsessed with output, growth, and edge--
 no matter the human cost.
 
-This shift-- 
+This shift—
 from purpose to prestige,
 from strength to status,
 from meaning to metrics--
@@ -358,14 +358,14 @@ Let me ask you a question:
 
 **What really matters?**
 
-The countries I've mentioned before-- the US, China, Japan, South Korea-- are among the most developed in the world.
-They boast staggering GDPs, advanced infrastructure, and a disproportionate share of global power-- both hard and soft. 
+The countries I've mentioned before— the US, China, Japan, South Korea— are among the most developed in the world.
+They boast staggering GDPs, advanced infrastructure, and a disproportionate share of global power— both hard and soft. 
 By most metrics, their citizens live very good lives.
 
 But at what cost?
 
 The average American works **1,700 hours** annually.
-The average Chinese citizen? Over **2,000**-- and that's not even counting unpaid overtime or the illegal yet rampant *996* schedule. 
+The average Chinese citizen? Over **2,000**— and that's not even counting unpaid overtime or the illegal yet rampant *996* schedule. 
 
 This isn't just a grind.
 It's a form of societal conditioning.
@@ -381,7 +381,7 @@ At first glance, it's just a sea of dark reds and blues.
 But what this map actually shows is total fertility rate:
 how many children, on average, each woman is expected to have in her lifetime.
 
-The global **replacement rate**-- the level needed to sustain a population-- is about **2.1**.
+The global **replacement rate**— the level needed to sustain a population— is about **2.1**.
 Now look at the most developed countries:
 Every single one is *below* that line.
 
@@ -401,13 +401,13 @@ It's about exhaustion.
 
 Look at South Korea.
 
-People are working long hours-- under intense academic pressure, corporate grind, and economic precarity. 
+People are working long hours— under intense academic pressure, corporate grind, and economic precarity. 
 Young Koreans can't afford housing.
 They're too burned out to date, let alone raise a child.
 And as the birth rate drops, the burden on the next generation only grows heavier and heavier.
 
 At this rate, **Korea's entire social fabric is at risk**.
-Culture, traditions, even language-- slowly fading for lack of people to carry them forward.
+Culture, traditions, even language— slowly fading for lack of people to carry them forward.
 
 And what's the response?
 
@@ -434,18 +434,18 @@ it's because we've made life so hard to *actually live*.
 ---
 ## So What Can We Do?
 
-Even with these cracks in our systems, I still believe we are living in the richest, most exciting time in history-- 
+Even with these cracks in our systems, I still believe we are living in the richest, most exciting time in history— 
 not because things are perfect, 
 but because so much is still possible.
 
 Technological innovations have unlocked possibilities once reserved for science fiction.
-Humanity has discovered a vaccine for malaria-- one of the deadliest diseases in human history.
+Humanity has discovered a vaccine for malaria— one of the deadliest diseases in human history.
 Gene editing and 3D printing are paving the way for lab-grown organs, potentially ending transplant shortages. 
 Tools like CRISPR are already being used in clinical trials to treat conditions like high cholesterol. 
 And the simple ability to refrigerate and store food over time?
 That alone has transformed modern survival. 
 
-Today, the average person has access to more health, knowledge, and comfort than a medieval king ever did. There is **immense potential**-- if only we choose to wield it wisely.
+Today, the average person has access to more health, knowledge, and comfort than a medieval king ever did. There is **immense potential**— if only we choose to wield it wisely.
 
 This starts with you. 
 
@@ -458,7 +458,7 @@ Be still.
 (insert image here)
 *“Zoom in. Life is still here.”*
 
-Every time you're about to say something that glorifies hustle-- pause. 
+Every time you're about to say something that glorifies hustle— pause. 
 Because language doesn't just reflect thought. 
 It helps shape it.
 
@@ -476,9 +476,9 @@ one that honors being over doing.
 In a world obsessed with output, I encourage you to **loaf**. 
 To reflect.
 To rebel.
-To bring balance to your life-- and invite others to do the same. 
+To bring balance to your life— and invite others to do the same. 
 
-Societal impact starts in your immediate circles-- 
+Societal impact starts in your immediate circles— 
 and ripples outward until even governments and corporations begin to shift. 
 
 These problems feel huge.
@@ -488,7 +488,7 @@ And little by little, we make the world more worth living in.
 (insert image here)
 
 ---
-I'll leave you with a quote that I touched on in *Even in Fiction We Miss the Point*-- one that continues to guide me:
+I'll leave you with a quote that I touched on in *Even in Fiction We Miss the Point*— one that continues to guide me:
 
 > "The mystery of life isn't a problem to be solved, but a reality to be experienced."  
 > — Frank Herbert, *Dune*
