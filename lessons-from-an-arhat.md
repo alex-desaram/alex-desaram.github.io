@@ -71,7 +71,7 @@ The Golden Mountain awaits.
 May I climb—
 and never forget where I began.
 
-![[Pasted image 20250502191500.png]]
+![hallofarhats](/assets/images/hallofarhats.png)
 *Arhats lining the corridor at Baoguang.*
 
 ___
