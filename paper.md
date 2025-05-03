@@ -1,10 +1,12 @@
 ---
-title:
 layout: default
+title: 
+short_title: The Case for Valuing Life《为了珍惜生命》
+date: 2025-04-28
 permalink: /blog/the-case-for-valuing-life/
 ---
 
-# The Case for Valuing Life — Loafing Against the Machine《为了珍惜生命》
+# The Case for Valuing Life — Loafing Against the Machine
 *Why rest, reflection, and rebellion are the antidotes to a dying world.*
 
 > "The world is moving too fast. Slow down and enjoy the scenery— or miss life itself."  
