@@ -6,7 +6,7 @@ date: 2025-05-01
 permalink: /blog/a-book-from-the-sky/
 ---
 
-# A Book from the Sky — On Meaning, Memory, and Machines 《天书与人工智能》
+# A Book from the Sky — On Meaning, Memory, and Machines
 *Art that says nothing— yet means everything.*
 
 I first encountered _A Book from the Sky_ in high school art history class.
