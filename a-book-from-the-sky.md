@@ -28,8 +28,6 @@ This week, years later, I saw it in person for the first time— on display in t
 Standing beneath the scrolls, it felt reverent.  
 Like being in a temple made of language, disassembled and made holy again.
 
----
-
 But when I showed a picture to my uncle, he brushed it off.  
 “Oh, AI can do that now. Just generate nonsense characters.”
 
