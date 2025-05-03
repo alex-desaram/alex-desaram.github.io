@@ -44,7 +44,9 @@ permalink: /blog/
       <a href="/" class="back-link">←</a>
       <h1>Blog</h1>
       <ul class="post-list">
-        {%- assign blogpages = site.pages | where_exp: "page", "page.url contains '/blog/' and page.url != '/blog/'" | sort: 'date' | reverse -%}
+        {%- assign pages_in_blog = site.pages | where_exp: "page", "page.url contains '/blog/'" -%}
+        {%- assign blogpages = pages_in_blog | where_exp: "page", "page.url != '/blog/'" -%}
+        {%- assign blogpages = blogpages | sort: 'date' | reverse -%}
         {%- for page in blogpages -%}
           <li class="post-item">
             <a class="post-link" href="{{ page.url }}">{{ page.title }}</a>
