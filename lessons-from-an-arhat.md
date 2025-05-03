@@ -1,6 +1,8 @@
 ---
 title:
 layout: default
+short_title: Lessons from an Arhat《第六十尊 金山觉意尊者》
+date: 2025-04-29
 permalink: /blog/lessons-from-an-arhat/
 ---
 
