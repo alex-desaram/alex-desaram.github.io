@@ -1,6 +1,8 @@
 ---
-title:
 layout: default
+title: 
+short_title: A Book from the Sky《天书与人工智能》
+date: 2025-05-01
 permalink: /blog/a-book-from-the-sky/
 ---
 
