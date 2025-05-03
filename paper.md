@@ -1,7 +1,7 @@
 ---
 title:
 layout: default
-permalink: /the-case-for-valuing-life/
+permalink: /blog/the-case-for-valuing-life/
 ---
 
 # The Case for Valuing Life — Loafing Against the Machine《为了珍惜生命》
