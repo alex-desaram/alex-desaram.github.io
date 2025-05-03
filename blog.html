@@ -40,10 +40,11 @@ permalink: /blog/
 <body>
   <div class="main">
     <div class="content">
+      <!-- Back arrow linked to home -->
       <a href="/" class="back-link">←</a>
       <h1>Blog</h1>
       <ul class="post-list">
-        {%- assign blogpages = site.pages | where_exp: "page", "page.url contains '/blog/' and page.title != 'Writing'" | sort: 'date' | reverse -%}
+        {%- assign blogpages = site.pages | where_exp: "page", "page.url contains '/blog/' and page.url != '/blog/'" | sort: 'date' | reverse -%}
         {%- for page in blogpages -%}
           <li class="post-item">
             <a class="post-link" href="{{ page.url }}">{{ page.title }}</a>
