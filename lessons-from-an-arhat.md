@@ -1,7 +1,7 @@
 ---
 title:
 layout: default
-permalink: /lessons-from-an-arhat/
+permalink: /blog/lessons-from-an-arhat/
 ---
 
 # Lessons from an Arhat《第六十尊 金山觉意尊者》
