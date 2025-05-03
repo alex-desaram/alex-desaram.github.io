@@ -29,7 +29,8 @@ These words are mine– *but the lesson belongs to something older.*
 
 金山不言，觉意不动。
 
-> 尊者指我曰：“你已知世界之繁，你将识自身之简。”
+尊者指我曰：“你已知世界之繁，
+你将识自身之简。”
 
 愿我不为喧嚣所动，
 不为聪明所傲，
@@ -54,8 +55,8 @@ The Golden Mountain said nothing.
 *Jueyi* did not move.
 
 The arhat looked at me and said:
-> “You’ve learned the noise of this world.
-> Now you must learn your own silence.”
+“You’ve learned the noise of this world. 
+Now you must learn your own silence.”
 
 May I remain unmoved by clamor,
 unimpressed by cleverness,
@@ -103,4 +104,5 @@ ___
 ## Final Note
 
 It’s easy to think of spirituality as something abstract. But standing there, with incense in the air, walking among the 500 arhats, I felt something tangible: a quiet invitation to reflect. 
-> Not to do more. But to _see more_— by doing less.
+
+Not to do more. But to _see more_— by doing less.
