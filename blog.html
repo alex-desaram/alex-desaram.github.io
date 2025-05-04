@@ -5,7 +5,6 @@ permalink: /blog/
 ---
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
   <meta charset="UTF-8" />
   <link rel="icon" href="favicon.png" type="image/png" />
@@ -19,25 +18,29 @@ permalink: /blog/
       font-family:Georgia, "Times New Roman", Times, serif;
       color:#222; line-height:1.5;
     }
+    /* container for arrow, matching content width */
+    .arrow-container {
+      width:90%; max-width:800px; margin:1rem auto 0;
+    }
     .back-link {
-      display:block;
       font-size:1.5rem;
       color:#111;
       text-decoration:none;
-      margin:1rem 1rem 0;
+      display:block;
+      margin:0;
     }
     .back-link:hover { opacity:0.7; }
     .main {
       display:flex;
       flex-direction:column;
-      align-items:center;    /* center content container horizontally */
-      justify-content:center; /* vertically center content container */
-      min-height:calc(100vh - 3rem); /* account for top arrow margin */
+      align-items:center;
+      justify-content:center;
+      min-height:calc(100vh - 3rem);
     }
     .content {
       display:flex;
       flex-direction:column;
-      align-items:flex-start; /* left-align inner items */
+      align-items:flex-start;
       width:90%; max-width:800px;
       padding:2rem 1rem;
       animation:fadeIn 0.8s ease-out;
@@ -49,32 +52,22 @@ permalink: /blog/
       color:#111;
     }
     .post-list {
-      list-style:none;
-      margin:0;
-      padding:0;
-      width:100%;
+      list-style:none; margin:0; padding:0; width:100%;
     }
     .post-item {
-      display:flex;
-      justify-content:space-between;
-      align-items:flex-start;
-      padding:1rem 0;
-      border-bottom:1px solid #eee;
+      display:flex; justify-content:space-between; align-items:flex-start;
+      padding:1rem 0; border-bottom:1px solid #eee;
     }
     .post-item:last-child { border-bottom:none; }
     .post-link {
-      font-size:1.25rem;
-      color:#111;
-      text-decoration:none;
+      font-size:1.25rem; color:#111; text-decoration:none;
       transition:opacity 0.2s;
     }
     .post-link:hover { opacity:0.7; }
     .post-date {
       font-family:Arial, Helvetica, sans-serif;
-      font-size:0.9rem;
-      color:#666;
-      white-space:nowrap;
-      margin-left:1rem;
+      font-size:0.9rem; color:#666;
+      white-space:nowrap; margin-left:1rem;
     }
     .featured-label {
       font-family: Arial, Helvetica, sans-serif;
@@ -89,10 +82,11 @@ permalink: /blog/
     }
   </style>
 </head>
-
 <body>
-  <!-- Arrow backlink at very top -->
-  <a href="/" class="back-link">←</a>
+  <!-- Arrow backlink at very top, aligned with content -->
+  <div class="arrow-container">
+    <a href="/" class="back-link">←</a>
+  </div>
   <div class="main">
     <div class="content">
       <h1>Blog</h1>
@@ -107,7 +101,7 @@ permalink: /blog/
         {%- for page in featured -%}
           <li class="post-item">
             <a class="post-link" href="{{ page.url }}">
-              <span class="featured-label">Featured ·</span>{{ page.short_title | default: page.title }}
+              <span class="featured-label"></span>{{ page.short_title | default: page.title }}
             </a>
             {%- if page.date -%}
               <time class="post-date" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%Y-%m-%d" }}</time>
