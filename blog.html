@@ -12,23 +12,76 @@ permalink: /blog/
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>{{ site.title }} · Blog</title>
   <style>
-    /* Shared site styles */
     @keyframes fadeIn { from { opacity:0; transform:translateY(30px);} to {opacity:1; transform:translateY(0);} }
-    html, body { height:100%; margin:0; padding:0; background:#fff; font-family:Georgia, "Times New Roman", Times, serif; color:#222; line-height:1.5; }
-    .main { display:flex; flex-direction:column; align-items:center; min-height:100vh; }
-    .content { display:flex; flex-direction:column; align-items:flex-start; flex:1; width:90%; max-width:800px; padding:2rem 0; animation:fadeIn 0.8s ease-out; }
-    /* Back arrow link */
-    .back-link { display:block; font-size:1.5rem; color:#111; text-decoration:none; margin-bottom:1rem; }
+    html, body {
+      height:100%; margin:0; padding:0;
+      background:#fff;
+      font-family:Georgia, "Times New Roman", Times, serif;
+      color:#222; line-height:1.5;
+    }
+    .back-link {
+      display:block;
+      font-size:1.5rem;
+      color:#111;
+      text-decoration:none;
+      margin:1rem 1rem 0;
+    }
     .back-link:hover { opacity:0.7; }
-    h1 { font-family:Arial, Helvetica, sans-serif; font-size:1.5rem; margin:0 0 1rem; color:#111; }
-
-    /* Blog list styles */
-    .post-list { list-style:none; margin:0; padding:0; width:100%; }
-    .post-item { display:flex; justify-content:space-between; align-items:flex-start; padding:1rem 0; border-bottom:1px solid #eee; }
+    .main {
+      display:flex;
+      flex-direction:column;
+      align-items:center;    /* center content container horizontally */
+      justify-content:center; /* vertically center content container */
+      min-height:calc(100vh - 3rem); /* account for top arrow margin */
+    }
+    .content {
+      display:flex;
+      flex-direction:column;
+      align-items:flex-start; /* left-align inner items */
+      width:90%; max-width:800px;
+      padding:2rem 1rem;
+      animation:fadeIn 0.8s ease-out;
+    }
+    h1 {
+      font-family:Arial, Helvetica, sans-serif;
+      font-size:1.5rem;
+      margin:0 0 1rem;
+      color:#111;
+    }
+    .post-list {
+      list-style:none;
+      margin:0;
+      padding:0;
+      width:100%;
+    }
+    .post-item {
+      display:flex;
+      justify-content:space-between;
+      align-items:flex-start;
+      padding:1rem 0;
+      border-bottom:1px solid #eee;
+    }
     .post-item:last-child { border-bottom:none; }
-    .post-link { font-size:1.25rem; color:#111; text-decoration:none; transition:opacity 0.2s; }
-    .post-link:hover { opacity:0.7; text-decoration:none; }
-    .post-date { font-family:Arial, Helvetica, sans-serif; font-size:0.9rem; color:#666; white-space:nowrap; margin-left:1rem; }
+    .post-link {
+      font-size:1.25rem;
+      color:#111;
+      text-decoration:none;
+      transition:opacity 0.2s;
+    }
+    .post-link:hover { opacity:0.7; }
+    .post-date {
+      font-family:Arial, Helvetica, sans-serif;
+      font-size:0.9rem;
+      color:#666;
+      white-space:nowrap;
+      margin-left:1rem;
+    }
+    .featured-label {
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 1rem; text-transform: uppercase;
+      color: #444; margin-bottom: 0.5rem;
+      letter-spacing: 0.05em;
+    }
     a { color:inherit; }
     @media(max-width:600px) {
       .post-item { flex-direction:column; }
@@ -38,22 +91,33 @@ permalink: /blog/
 </head>
 
 <body>
+  <!-- Arrow backlink at very top -->
+  <a href="/" class="back-link">←</a>
   <div class="main">
     <div class="content">
-      <!-- Back arrow linked to home -->
-      <a href="/" class="back-link">←</a>
       <h1>Blog</h1>
       <ul class="post-list">
-        {%- assign pages_in_blog = site.pages | where_exp: "page", "page.url contains '/blog/'" -%}
-        {%- assign blogpages = pages_in_blog | where_exp: "page", "page.url != '/blog/'" -%}
-        {%- assign blogpages = blogpages | sort: 'date' | reverse -%}
-        {%- for page in blogpages -%}
+        {%- assign all = site.pages | where_exp: "page", "page.url contains '/blog/'" -%}
+        {%- assign list = all | where_exp: "page", "page.url != '/blog/'" -%}
+        {%- assign featured = list | where_exp: "page", "page.featured" -%}
+        {%- assign others = list | where_exp: "page", "page.featured == false or page.featured == nil" -%}
+        {%- assign featured = featured | sort: 'date' | reverse -%}
+        {%- assign others = others | sort: 'date' | reverse -%}
+        {%- for page in featured -%}
           <li class="post-item">
             <a class="post-link" href="{{ page.url }}">
-              {{ page.short_title | default: page.title }}
+              <span class="featured-label">Featured ·</span>{{ page.short_title | default: page.title }}
             </a>
             {%- if page.date -%}
-            <time class="post-date" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%Y-%m-%d" }}</time>
+              <time class="post-date" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%Y-%m-%d" }}</time>
+            {%- endif -%}
+          </li>
+        {%- endfor -%}
+        {%- for page in others -%}
+          <li class="post-item">
+            <a class="post-link" href="{{ page.url }}">{{ page.short_title | default: page.title }}</a>
+            {%- if page.date -%}
+              <time class="post-date" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%Y-%m-%d" }}</time>
             {%- endif -%}
           </li>
         {%- endfor -%}
