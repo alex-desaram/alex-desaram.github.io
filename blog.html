@@ -97,12 +97,13 @@ permalink: /blog/
     <div class="content">
       <h1>Blog</h1>
       <ul class="post-list">
-        {%- assign all = site.pages | where_exp: "page", "page.url contains '/blog/'" -%}
-        {%- assign list = all | where_exp: "page", "page.url != '/blog/'" -%}
-        {%- assign featured = list | where_exp: "page", "page.featured" -%}
-        {%- assign others = list | where_exp: "page", "page.featured == false or page.featured == nil" -%}
+        {%- assign all_pages = site.pages | where_exp: "page", "page.url contains '/blog/'" -%}
+        {%- assign pages = all_pages | where_exp: "page", "page.url != '/blog/'" -%}
+        {%- assign featured = pages | where: "featured", true -%}
+        {%- assign others = pages | where_exp: "page", "page.featured != true" -%}
         {%- assign featured = featured | sort: 'date' | reverse -%}
         {%- assign others = others | sort: 'date' | reverse -%}
+
         {%- for page in featured -%}
           <li class="post-item">
             <a class="post-link" href="{{ page.url }}">
@@ -113,6 +114,7 @@ permalink: /blog/
             {%- endif -%}
           </li>
         {%- endfor -%}
+
         {%- for page in others -%}
           <li class="post-item">
             <a class="post-link" href="{{ page.url }}">{{ page.short_title | default: page.title }}</a>
