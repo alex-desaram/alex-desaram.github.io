@@ -5,6 +5,7 @@ permalink: /blog/
 ---
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8" />
   <link rel="icon" href="favicon.png" type="image/png" />
@@ -18,37 +19,28 @@ permalink: /blog/
       font-family:Georgia, "Times New Roman", Times, serif;
       color:#222; line-height:1.5;
     }
-    /* container for arrow, matching content width */
-    .arrow-container {
-      width:90%; max-width:800px; margin:1rem auto 0;
-    }
-    .back-link {
-      font-size:1.5rem;
-      color:#111;
-      text-decoration:none;
-      display:block;
-      margin:0;
-    }
-    .back-link:hover { opacity:0.7; }
     .main {
-      display:flex;
-      flex-direction:column;
-      align-items:center;
+      display:flex; flex-direction:column; align-items:center;
       justify-content:center;
-      min-height:calc(100vh - 3rem);
+      min-height:100vh;
     }
     .content {
-      display:flex;
-      flex-direction:column;
-      align-items:flex-start;
+      display:flex; flex-direction:column; align-items:flex-start;
       width:90%; max-width:800px;
       padding:2rem 1rem;
       animation:fadeIn 0.8s ease-out;
     }
+    .back-link {
+      font-size:1.2rem; /* reduced size */
+      color:#111;
+      text-decoration:none;
+      margin-bottom:0.75rem;
+    }
+    .back-link:hover { opacity:0.7; }
     h1 {
       font-family:Arial, Helvetica, sans-serif;
       font-size:1.5rem;
-      margin:0 0 1rem;
+      margin:0 0 1.5rem;
       color:#111;
     }
     .post-list {
@@ -69,12 +61,6 @@ permalink: /blog/
       font-size:0.9rem; color:#666;
       white-space:nowrap; margin-left:1rem;
     }
-    .featured-label {
-      font-family: Arial, Helvetica, sans-serif;
-      font-size: 1rem; text-transform: uppercase;
-      color: #444; margin-bottom: 0.5rem;
-      letter-spacing: 0.05em;
-    }
     a { color:inherit; }
     @media(max-width:600px) {
       .post-item { flex-direction:column; }
@@ -82,13 +68,12 @@ permalink: /blog/
     }
   </style>
 </head>
+
 <body>
-  <!-- Arrow backlink at very top, aligned with content -->
-  <div class="arrow-container">
-    <a href="/" class="back-link">←</a>
-  </div>
   <div class="main">
     <div class="content">
+      <!-- Arrow backlink placed just above heading -->
+      <a href="/" class="back-link">←</a>
       <h1>Blog</h1>
       <ul class="post-list">
         {%- assign all_pages = site.pages | where_exp: "page", "page.url contains '/blog/'" -%}
@@ -100,9 +85,7 @@ permalink: /blog/
 
         {%- for page in featured -%}
           <li class="post-item">
-            <a class="post-link" href="{{ page.url }}">
-              <span class="featured-label"></span>{{ page.short_title | default: page.title }}
-            </a>
+            <a class="post-link" href="{{ page.url }}">{{ page.short_title | default: page.title }}</a>
             {%- if page.date -%}
               <time class="post-date" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%Y-%m-%d" }}</time>
             {%- endif -%}
