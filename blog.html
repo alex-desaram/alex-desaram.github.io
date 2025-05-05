@@ -31,10 +31,32 @@ permalink: /blog/
       animation:fadeIn 0.8s ease-out;
     }
     .back-link {
-      font-size:1.2rem; /* reduced size */
-      color:#111;
-      text-decoration:none;
-      margin-bottom:0.75rem;
+      position: relative;
+      display: inline-block;
+      padding-left: 2.1em;           /* space for the arrow */
+      font-family: Arial, Helvetica, sans-serif;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      font-size: 0.7rem;             /* “Home” size */
+      color: #111;
+      text-decoration: none;
+      margin-bottom: 0.75rem;
+    }
+    
+    /* center it, then nudge it up by 0.15em */
+    .back-link::before {
+      content: '←';
+      position: absolute;
+      left: 0;
+      top: 55%;
+      font-size: 1.2rem;             /* arrow size */
+      line-height: 1;
+      margin-right: 0.4em;
+      transform: translateY(-50%)    /* perfect centering */
+                 translateY(-0.15em);/* your manual nudge */
+    }
+    .back-link:hover {
+      opacity: 0.7;
     }
     .back-link:hover { opacity:0.7; }
     h1 {
@@ -73,7 +95,7 @@ permalink: /blog/
   <div class="main">
     <div class="content">
       <!-- Arrow backlink placed just above heading -->
-      <a href="/" class="back-link">←</a>
+      <a href="/" class="back-link">Home</a>
       <h1>Blog</h1>
       <ul class="post-list">
         {%- assign all_pages = site.pages | where_exp: "page", "page.url contains '/blog/'" -%}
