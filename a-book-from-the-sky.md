@@ -19,7 +19,7 @@ this is what happens when meaning is sacrificed for convenience.
 When simplification erodes not just a script,  
 but a culture’s memory.
 
-![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUdawJrthYSOMzRxc6KtyuafOojBiuKSPdKuY0zW7qOkysGpCl5EThrXaBRya9yGS_7UkofHVPzf7Q2bS268G0ZcXuqZXGs74iy6l1DfDdjK0yzi5FMqi1BrV3At4tDL6wx96vNd-6yqNxjB6oGVAAIVScceKKLn=s2048?key=93EucfK15OA28sPBYp6_CXMQ)
+![pic of the full installation](/assets/images/abookfromthesky.png)
 
 ---
 
@@ -46,7 +46,7 @@ _Handmade nonsense_ isn’t the same as _automated noise_.
 One is a reflection.  
 The other is an output.
 
-**![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUfmPVPMDlTBOcyacUnYmMlV1rQwfCo_2vc2RpdAVwTCuChRJm9yEIzYVfKRBeNNYRKnBArytRPwPmHkEuPoIRLHRx37CmcOqsvs6QGtyuYBtQpYbw-BWOiaO0nxIVtXvWM4hD0D4X8lREdXKzIX8Wu_b-m_pK8=s2048?key=93EucfK15OA28sPBYp6_CXMQ)**
+![close up of the invented characters](/assets/images/abookfromtheskytext.png)
 *4,000 characters—none of them real, all of them intentional.*
 
 ---
@@ -76,7 +76,7 @@ I don’t see something replaceable.
 
 I see something irreplaceable.
 
-![ghiblileafcloseup](/assets/images/ghiblileaf.png)
+![ghibli leaf close up](/assets/images/ghiblileaf.png)
 (*Hand-painted by Studio Ghibli artists – from The Secret World of Arrietty*)
 
 ---
