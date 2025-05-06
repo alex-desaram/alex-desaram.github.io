@@ -17,7 +17,7 @@ The moment felt quiet but charged.
 The following reflection came after sitting with that stillness.  
 These words are mine– *but the lesson belongs to something older.*
 
-[![Baoguang Temple of Chengdu](https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/66/cb/b5/bao-guang-temple-hall.jpg?w=1200&h=-1&s=1)
+![baoguang temple](/assets/images/bgtemplehall.png)
 *Incense hanging in the stillness.*
 
 ---
