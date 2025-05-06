@@ -174,7 +174,7 @@ I'll leave you with one of the most dystopian quotes I’ve ever come across— 
 > "AI will probably most likely lead to the end of the world, but in the meantime, there'll be great companies."  
 > — Sam Altman, CEO of OpenAI
 
-![ss of ledger of harms](/assets/images/ledgerofharms.png)
+![screenshot of ledger of harms](/assets/images/ledgerofharms.png)
 *(Source: Center for Humane Technology)*
 
 ---
@@ -377,7 +377,7 @@ Want to see what that looks like?
 
 Take a look at this map:
 
-![total fertility rate map](/assets/images/tfrmap)
+![total fertility rate map](/assets/images/tfrmap.png)
 
 At first glance, it's just a sea of dark reds and blues. 
 But what this map actually shows is total fertility rate:
@@ -457,7 +457,7 @@ Feel the sun.
 Notice the flowers. 
 Be still. 
 
-![ghibli grass close up](/assets/images/ghibligrass)
+![ghibli grass close up](/assets/images/ghibligrass.png)
 *“Zoom in. Life is still here.”*
 
 Every time you're about to say something that glorifies hustle— pause. 
