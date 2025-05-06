@@ -54,6 +54,7 @@ To seek out nature as a space to loaf.
 And to treat loafing as a quiet act of resistance— against industrialization, against the machine, and against the erasure of the self. 
 
 ![cat loafing](/assets/images/loafingcat.png)
+*“The original loafer”*
 
 ---
 ## Global Responses to Hustle Culture
