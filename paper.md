@@ -25,7 +25,7 @@ His writing became a springboard--
 helping me synthesize my own observations
 and think more deeply about how to live well in a world that's forgetting how to value life.
 
-(insert image here)
+![ghibli yard](/assets/images/ghibliyard.png)
 
 ---
 
@@ -52,7 +52,7 @@ Lin urges us to reject a rigid schedule for spontaneity.
 To seek out nature as a space to loaf. 
 And to treat loafing as a quiet act of resistance— against industrialization, against the machine, and against the erasure of the self. 
 
-![Why Do Cats Loaf? · Kinship](https://images.ctfassets.net/sfnkq8lmu5d7/3PAlm8EtPaC2FqNBaCxVI9/67b28c67fe3a633caf4a360d4cfd34d7/2024-08-14_Cat_loaf_-_Hero.jpg?w=1000&h=750&fl=progressive&q=70&fm=jpg)
+![cat loafing](/assets/images/loafingcat.png)
 *“The original loafer”*
 
 ---
@@ -78,8 +78,8 @@ In Japan, death by overwork is so common it has its own name: 過労死 (*karosh
 And in China, an infamous work schedule dominates entire industries: 
 the *996 system*: working from 9am to 9pm, six days a week. 
 
-![Yellow Cube Houses of Rotterdam: The Ultimate Guide (2025) - Laure Wanders](https://www.laurewanders.com/wp-content/uploads/2018/07/IMG_0275-1.jpg)
-*(Cube Houses in Rotterdam, where playfulness isn’t just tolerated — it’s built into the skyline.)*
+![cube houses in rotterdam](/assets/images/rotterdamcubehouses.png)
+*(Cube Houses in Rotterdam, where playfulness isn’t just tolerated— it’s built into the skyline.)*
 
 ---
 ## Busyness as a Virtue
@@ -93,7 +93,7 @@ Global trends manifest differently in individual lives.
 In mine, for instance, having lived briefly in both China and the US, I've found that both countries **equate busyness with virtue** on a social level. 
 Among my Chinese friends at Peking University, one emoji that floats around WeChat a lot— used to encourage each other, and to flex how hard they're working: 
 
-(insert image here)
+![wechat emoji](/assets/images/wechatemoji.png)
 
 ~~很想休息~~ 不 你是铁打的 
 (*~~hěnxiǎngxiūxi~~ bù— nǐ shì tiě dǎ de*)
@@ -117,7 +117,7 @@ Online spaces glorify the 'sigma grindset', idolizing lifestyles inspired by sat
 where Patrick Bateman, a literal psychopath, wakes up at 6am, cranks out 1000 crunches, 500 pushups, a full 12-step skincare routine, 
 and then gets into his cushy Harvard-educated investment banking job. 
 
-![What is Patrick Bateman's skincare regimen in 'American Psycho'? | Tatler  Asia](https://cdn.tatlerasia.com/asiatatler/i/ph/2020/04/28171658-733rvlbrz0011_cover_1920x1008.jpg)
+![patrick bateman morning routine](/assets/images/americanpsycho.png)
 *Satire mistaken for scripture.*
 
 This isn't just unrealistic.
@@ -175,7 +175,7 @@ I'll leave you with one of the most dystopian quotes I’ve ever come across— 
 > "AI will probably most likely lead to the end of the world, but in the meantime, there'll be great companies."  
 > — Sam Altman, CEO of OpenAI
 
-(insert image here)
+![ss of ledger of harms](/assets/images/ledgerofharms.png)
 *(Source: Center for Humane Technology)*
 
 ---
@@ -214,7 +214,7 @@ To be honest, maybe it's a prank Herbert pulled on all of us.
 He builds a story meant to critique our obsession with control, with destiny, with hero worship--
 and the very readers who engage with it fall for the myth he's trying to dismantle.
 
-![My letter to Paul Atreides about DUNE video games](https://www.pointnthink.fr/wp-content/uploads/2024/04/Timothee-Chalamet-en-Paul-Atreides-pour-la-premiere-photo-de-Dune-de-Denis-Villeneuve.jpg)
+![paul atreides before he gains prescience](/assets/images/caladan.png)
 
 ---
 ## When Life Becomes a Formula
@@ -279,7 +279,7 @@ To do what doesn't scale.
 
 We're growing up into a world that rewards execution— but forgets to teach us how to **dream**.
 
-![What happens if you fail the gaokao? (2016)](https://media.cnn.com/api/v1/images/stellar/prod/160607113328-gaokao-students-china-study-exam-college.jpg?q=w_2754,h_1765,x_0,y_0,c_fill)
+![students studying for the gaokao](/assets/images/gaokao.png)
 
 ---
 ## The Cost of Winning
@@ -349,7 +349,7 @@ We're not just losing **efficiency**.
 
 We're losing **integrity**.
 
-(insert image here)
+![ghibli town](/assets/images/ghiblitown.png)
 
 ---
 ## Cracks in the System
@@ -378,7 +378,7 @@ Want to see what that looks like?
 
 Take a look at this map:
 
-![List of countries by total fertility rate - Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Total_Fertility_Rate_Map_by_Country.svg/1200px-Total_Fertility_Rate_Map_by_Country.svg.png)
+![total fertility rate map](/assets/images/tfrmap)
 
 At first glance, it's just a sea of dark reds and blues. 
 But what this map actually shows is total fertility rate:
@@ -458,7 +458,7 @@ Feel the sun.
 Notice the flowers. 
 Be still. 
 
-(insert image here)
+![ghibli grass close up](/assets/images/ghibligrass)
 *“Zoom in. Life is still here.”*
 
 Every time you're about to say something that glorifies hustle— pause. 
@@ -488,7 +488,7 @@ These problems feel huge.
 But the smallest acts of rebellion restore balance. 
 And little by little, we make the world more worth living in. 
 
-(insert image here)
+![loafing ghibli arrietty](/assets/images/ghibliloaf.png)
 
 ---
 I'll leave you with a quote that I touched on in *Even in Fiction We Miss the Point*— one that continues to guide me:
