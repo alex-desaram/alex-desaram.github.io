@@ -47,7 +47,7 @@ One is a reflection.
 The other is an output.
 
 ![close up of the invented characters](/assets/images/abookfromtheskytext.png)
-*4,000 characters—none of them real, all of them intentional.*
+*4,000 characters— none of them real, all of them intentional.*
 
 ---
 
@@ -77,7 +77,7 @@ I don’t see something replaceable.
 I see something irreplaceable.
 
 ![ghibli leaf close up](/assets/images/ghiblileaf.png)
-(*Hand-painted by Studio Ghibli artists – from The Secret World of Arrietty*)
+(*Hand-painted by Studio Ghibli artists– from The Secret World of Arrietty*)
 
 ---
 
