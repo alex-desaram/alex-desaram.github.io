@@ -21,7 +21,7 @@ For a while, I didn't think there was anything unifying these ideas— until I r
 While this piece may echo his work, these are all thoughts I've mulled over on high-speed rails, buses, planes, 
 or just lying flat in bed. 
 
-His writing became a springboard--
+His writing became a springboard—
 helping me synthesize my own observations
 and think more deeply about how to live well in a world that's forgetting how to value life.
 
