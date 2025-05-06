@@ -9,13 +9,13 @@ permalink: /blog/lessons-from-an-arhat/
 # Lessons from an Arhat
 *A quiet moment at Baoguang Temple.*
 
-When I visited 宝光寺 (_Bǎogūang Sì_) – Baoguang Temple in 新都区 (_Xīndū_ _Qū_) – Xindu, I took part in an old tradition: selecting an arhat whose presence I felt drawn to, then counting an auspicious number—**21**, the age I turn this year—forward to find my destined guide.
+When I visited 宝光寺 (_Bǎogūang Sì_)  Baoguang Temple in 新都区 (_Xīndū_ _Qū_)  Xindu, I took part in an old tradition: selecting an arhat whose presence I felt drawn to, then counting an auspicious number— **21**, the age I turn this year— forward to find my destined guide.
 
-That arhat was 第六十尊 金山觉意尊者 (*Dì liù shí zūn Jīnshān Juéyì Zūnzhě*) – Jueyi, the 60th arhat.
+That arhat was 第六十尊 金山觉意尊者 (*Dì liù shí zūn Jīnshān Juéyì Zūnzhě*)  Jueyi, the 60th arhat.
 
 The moment felt quiet but charged.  
 The following reflection came after sitting with that stillness.  
-These words are mine– *but the lesson belongs to something older.*
+These words are mine *but the lesson belongs to something older.*
 
 ![baoguang temple](/assets/images/bgtemplehall.png)
 *Incense hanging in the stillness.*
@@ -78,7 +78,7 @@ and never forget where I began.
 *Arhats lining the corridor at Baoguang.*
 
 ___
-### Original Verse from the 60th Arhat – Venerable Jueyi 《金山覺意尊者》
+### Original Verse from the 60th Arhat  Venerable Jueyi 《金山覺意尊者》
 
 > 金山覺意尊者，為佛陀弟子。  
 > 尊者常在佛陀身邊聆聽妙法，有如佛祖般的覺悟，  
