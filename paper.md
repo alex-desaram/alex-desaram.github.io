@@ -16,7 +16,8 @@ featured: true
 I find a lot of different topics deeply interesting— 
 philosophy, geopolitics, China compared to the West, linguistics, and technology, just to mention a few. 
 
-For a while, I didn't think there was anything unifying these ideas— until I read *The Importance of Living* by 林语堂 (*Lín Yǔtáng*). 
+For a while, I didn't think there was anything unifying these ideas— 
+until I read *The Importance of Living* by 林语堂 (*Lín Yǔtáng*). 
 
 While this piece may echo his work, these are all thoughts I've mulled over on high-speed rails, buses, planes, 
 or just lying flat in bed. 
