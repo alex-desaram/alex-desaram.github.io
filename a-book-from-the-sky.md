@@ -9,7 +9,7 @@ permalink: /blog/a-book-from-the-sky/
 # A Book from the Sky — On Meaning, Memory, and Machines
 *Art that says nothing— yet means everything.*
 
-I first encountered _A Book from the Sky_ in high school art history class.
+I first encountered _A Book from the Sky_ in my high school art history class.
 
 Back then, I was struck by its quiet protest: around 4,000 invented characters, printed in traditional form, that looked unmistakably Chinese— yet meant absolutely nothing. 徐冰 (_Xú Bīng_) – Xu Bing had carved them himself, by hand, following the 康熙部首 – (*Kāngxī bùshǒu*) Kangxi radicals. It was art that reveres tradition, while also grieving what’s been lost.
 
