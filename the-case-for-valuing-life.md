@@ -46,7 +46,7 @@ I like to picture it the way a cat tucks its paws and tail under its body, takin
 pausing to nap, to exist, to simply *be*. 
 
 The book draws deeply from ancient Chinese philosophical ideas, especially those rooted in Taoism:
-concepts such as 无为 (*wú wéi*) — “effortless action,” and 闲闲 (*xián xiá*) — "leisurely idleness."
+concepts such as 无为 (*wú wéi*) — “effortless action,” and 闲暇 (*xián xiá*) — "leisurely idleness."
 
 But what does *leisure* really mean?
 
