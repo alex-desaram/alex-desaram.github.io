@@ -9,9 +9,9 @@ permalink: /blog/a-book-from-the-sky/
 # A Book from the Sky — On Meaning, Memory, and Machines
 *Art that says nothing— yet means everything.*
 
-I first encountered _A Book from the Sky_ in my high school art history class.
+I first encountered *A Book from the Sky* in my high school art history class.
 
-Back then, I was struck by its quiet protest: around 4,000 invented characters, printed in traditional form, that looked unmistakably Chinese— yet meant absolutely nothing. 徐冰 (_Xú Bīng_) – Xu Bing had carved them himself, by hand, following the 康熙部首 – (*Kāngxī bùshǒu*) Kangxi radicals. It was art that reveres tradition, while also grieving what’s been lost.
+Back then, I was struck by its quiet protest: around 4,000 invented characters, printed in traditional form, that looked unmistakably Chinese— yet meant absolutely nothing. 徐冰 (*Xú Bīng*) – Xu Bing had carved them himself, by hand, following the 康熙部首 – (*Kāngxī bùshǒu*) Kangxi radicals. It was art that reveres tradition, while also grieving what’s been lost.
 
 I remember thinking:  
 this is what happens when meaning is sacrificed for convenience.
@@ -23,7 +23,7 @@ but a culture’s memory.
 
 ---
 
-This week, years later, I saw it in person for the first time— on display in the Chengdu Art Museum.
+This week, years later, I saw it in person for the first time on display in the Chengdu Art Museum.
 
 Standing beneath the scrolls, it felt reverent.  
 Like being in a temple made of language, disassembled and made holy again.
@@ -34,14 +34,14 @@ But when I showed a picture to my uncle, he brushed it off.
 I felt something rise up in me— maybe it was anger, maybe it was grief— not because he was technically wrong,  
 but because something far more important was being dismissed:
 
- _Humanity_.
+*Humanity*.
 
-Yes, AI _can_ generate thousands of meaningless glyphs.  
-But Xu Bing _chose_ to.  
+Yes, AI *can* generate thousands of meaningless glyphs.  
+But Xu Bing *chose* to.  
 And that distinction matters.
 
-_Meaningless_ doesn’t mean _empty_.  
-_Handmade nonsense_ isn’t the same as _automated noise_.
+*Meaningless* doesn’t mean *empty*.  
+*Handmade nonsense* isn’t the same as *automated noise*.
 
 One is a reflection.  
 The other is an output.
@@ -60,7 +60,7 @@ If anything, it matters more.
 Because art is how humans metabolize experience.  
 It’s how we make sense of what cannot be said.
 
-AI might be able to mimic a scene from _Spirited Away_—  
+AI might be able to mimic a scene from *Spirited Away*—  
 but it won’t be the animator who walked through a mountain village,  
 took off his shoes at a shrine,  
 and sat still long enough to watch the way wind moved through grass.
@@ -84,8 +84,8 @@ I see something irreplaceable.
 This isn’t an anti-AI post.  
 I study AI. I work with it. I believe it can help make life easier, gentler, freer.
 
-But it should be a tool that _carries_ us,  
-not one that _erases_ us.
+But it should be a tool that *carries* us,  
+not one that *erases* us.
 
 And if we let it hollow out the very things that make life worth living—  
 art, language, culture, reflection—  
