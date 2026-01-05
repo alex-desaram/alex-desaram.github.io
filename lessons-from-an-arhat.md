@@ -1,7 +1,7 @@
 ---
 title:
 layout: default
-short_title: Lessons from an Arhat《第六十尊 金山觉意尊者》
+short_title: Lessons from an Arhat
 date: 2025-04-29
 permalink: /blog/lessons-from-an-arhat/
 ---
@@ -9,9 +9,9 @@ permalink: /blog/lessons-from-an-arhat/
 # Lessons from an Arhat
 *A quiet moment at Baoguang Temple.*
 
-When I visited 宝光寺 (_Bǎogūang Sì_)  Baoguang Temple in 新都区 (_Xīndū_ _Qū_)  Xindu, I took part in an old tradition: selecting an arhat whose presence I felt drawn to, then counting an auspicious number— **21**, the age I turn this year— forward to find my destined guide.
+When I visited 宝光寺 (<span class="pinyin">_Bǎogūang Sì_</span>)  Baoguang Temple in 新都区 (<span class="pinyin">_Xīndū_ _Qū_</span>)  Xindu, I took part in an old tradition: selecting an arhat whose presence I felt drawn to, then counting an auspicious number— **21**, the age I turn this year— forward to find my destined guide.
 
-That arhat was 第六十尊 金山觉意尊者 (*Dì liù shí zūn Jīnshān Juéyì Zūnzhě*)  Jueyi, the 60th arhat.
+That arhat was 第六十尊 金山觉意尊者 (<span class="pinyin">*Dì liù shí zūn Jīnshān Juéyì Zūnzhě*</span>)  Jueyi, the 60th arhat.
 
 The moment felt quiet but charged.  
 The following reflection came after sitting with that stillness.  
