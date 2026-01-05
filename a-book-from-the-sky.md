@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 
-short_title: A Book from the Sky《天书与人工智能》
+short_title: A Book from the Sky
 date: 2025-05-01
 permalink: /blog/a-book-from-the-sky/
 ---
@@ -11,7 +11,7 @@ permalink: /blog/a-book-from-the-sky/
 
 I first encountered *A Book from the Sky* in my high school art history class.
 
-Back then, I was struck by its quiet protest: around 4,000 invented characters, printed in traditional form, that looked unmistakably Chinese— yet meant absolutely nothing. 徐冰 (*Xú Bīng*) – Xu Bing had carved them himself, by hand, following the 康熙部首 – (*Kāngxī bùshǒu*) Kangxi radicals. It was art that reveres tradition, while also grieving what’s been lost.
+Back then, I was struck by its quiet protest: around 4,000 invented characters, printed in traditional form, that looked unmistakably Chinese— yet meant absolutely nothing. 徐冰 (<span class="pinyin">*Xú Bīng*</span>) – Xu Bing had carved them himself, by hand, following the 康熙部首 – (<span class="pinyin">*Kāngxī bùshǒu*</span>) Kangxi radicals. It was art that reveres tradition, while also grieving what’s been lost.
 
 I remember thinking:  
 this is what happens when meaning is sacrificed for convenience.
