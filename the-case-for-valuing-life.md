@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 
-short_title: The Case for Valuing Life《为了珍惜生命》
+short_title: The Case for Valuing Life
 date: 2025-04-28
 permalink: /blog/the-case-for-valuing-life/
 featured: true
@@ -17,7 +17,7 @@ I find a lot of different topics deeply interesting—
 philosophy, geopolitics, China compared to the West, linguistics, and technology, just to mention a few. 
 
 For a while, I didn't think there was anything unifying these ideas— 
-until I read *The Importance of Living* by 林语堂 (*Lín Yǔtáng*). 
+until I read *The Importance of Living* by 林语堂 (<span class="pinyin">*Lín Yǔtáng*</span>). 
 
 While this piece may echo his work, these are all thoughts I've mulled over on high-speed rails, buses, planes, 
 or just lying flat in bed. 
@@ -46,16 +46,16 @@ I like to picture it the way a cat tucks its paws and tail under its body, takin
 pausing to nap, to exist, to simply *be*. 
 
 The book draws deeply from ancient Chinese philosophical ideas, especially those rooted in Taoism:
-concepts such as 无为 (*wú wéi*) — “effortless action,” and 闲暇 (*xián xiá*) — "leisurely idleness."
+concepts such as 无为 (*wú wéi*) — “effortless action,” and 闲暇 (<span class="pinyin">*xián xiá*</span>) — "leisurely idleness."
 
 But what does *leisure* really mean?
 
-The English word “**leisure**” comes from Latin — *licēre*, meaning “to be permitted” — through French into English.  
+The English word “**leisure**” comes from Latin — <span class="pinyin">*licēre*</span>, meaning “to be permitted” — through French into English.  
 It once meant freedom from obligations: time you were *allowed* to claim back for yourself.
 
 But the deeper philosophical root of leisure-as-virtue comes from ancient Greece.
 
-The Greek word σχολή (*skholḗ*) — “leisure” — referred not to idle time, but to time for contemplation, learning, and philosophical inquiry.
+The Greek word σχολή (<span class="pinyin">*skholḗ*</span>) — “leisure” — referred not to idle time, but to time for contemplation, learning, and philosophical inquiry.
 From this, we get the word **school**.
 
 Think about that:  
@@ -117,7 +117,7 @@ Among my Chinese friends at Peking University, one emoji that floats around WeCh
 ![wechat emoji](/assets/images/wechatemoji.png)
 
 ~~很想休息~~ 不 你是铁打的 
-(*~~hěnxiǎngxiūxi~~ bù— nǐ shì tiě dǎ de*)
+(<span class="pinyin">*~~hěnxiǎngxiūxi~~ bù— nǐ shì tiě dǎ de*</span>)
 "~~I really want to rest~~ No— you're made of steel"
 
 Words shape how we see the world.
@@ -249,7 +249,7 @@ They tied with the US for the most gold medals— an objectively impressive show
 But look closer, and you'll notice: nearly all of China's golds came from individual sports. 
 
 Chinese athletes aren't chosen for passion.
-They're selected as children, then trained relentlessly based on the Chinese Olympic Committee's "小, 巧, 难, 女, 少" (*xiǎo, qiǎo, nán, nǚ, shǎo*) criteria:
+They're selected as children, then trained relentlessly based on the Chinese Olympic Committee's "小, 巧, 难, 女, 少" (<span class="pinyin">*xiǎo, qiǎo, nán, nǚ, shǎo*</span>) criteria:
 
 	SMALL events (fewer competitors)
 	SKILLFUL sports (technique-heavy)
@@ -261,10 +261,10 @@ It's not a system built to nurture athletes.
 It's a system designed to **manufacture winners**.
 
 And it's why China continues to underperform in team sports. 
-Despite having one of the earliest recorded forms of soccer— 蹴鞠 (*cù jū*)— China's modern men's national football team is notoriously bad.
+Despite having one of the earliest recorded forms of soccer— 蹴鞠 (<span class="pinyin">*cù jū*</span>)— China's modern men's national football team is notoriously bad.
 (Though to be fair, corruption and environmental factors don't help.) 
 
-You see the same pattern in the 高考 (*gāokǎo*) — China's university entrance exam system: 
+You see the same pattern in the 高考 (<span class="pinyin">*gāokǎo*</span>) — China's university entrance exam system: 
 **One path. One chance. One track.**
 
 When a society forces everyone through the same narrow path, 
