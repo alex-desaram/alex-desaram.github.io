@@ -5,8 +5,27 @@
   <meta charset="UTF-8" />
   <link rel="icon" href="favicon.png" type="image/png" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Alexander De Saram · 杨舜涛</title>
+  <title>Alexander De Saram</title>
   <style>
+    @font-face {
+      font-family: 'Signifier';
+      src: url('/assets/fonts/test-signifier-light.woff2') format('woff2');
+      font-weight: 300;
+      font-style: normal;
+    }
+    @font-face {
+      font-family: 'Signifier';
+      src: url('/assets/fonts/test-signifier-regular.woff2') format('woff2');
+      font-weight: 400;
+      font-style: normal;
+    }
+    @font-face {
+      font-family: 'Signifier';
+      src: url('/assets/fonts/test-signifier-medium.woff2') format('woff2');
+      font-weight: 500;
+      font-style: normal;
+    }
+
       /* right at the top of your stylesheet */
     html {
       /* disable iOS text-autosizing */
@@ -34,8 +53,9 @@
       align-items: center;
       min-height: 100vh;
       background: #fff;
-      font-family: Georgia, "Times New Roman", Times, serif;
-      color: #222; line-height: 1.5;
+      font-family: 'Signifier', "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", Georgia, serif;
+      font-weight: 400;
+      color: #252A2F; line-height: 1.5;
     }
 
     /* main area stretches to push footer down */
@@ -61,13 +81,9 @@
     }
 
     h1 {
-      font-family: Arial, Helvetica, sans-serif;
-      font-size: 1.5rem; margin: 0; color: #111;
-    }
-    .tagline {
-      font-family: Arial, Helvetica, sans-serif;
-      font-size: 0.95rem; color: #555;
-      margin-top: 0.25rem;
+      font-family: 'Signifier', "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", Georgia, serif;
+      font-weight: 500;
+      font-size: 1.5rem; margin: 0; color: #252A2F;
     }
     .header {
       display: flex; justify-content: space-between; align-items: flex-start;
@@ -86,10 +102,19 @@
       font-size: 0.95rem;
     }
     .section-title {
-      font-family: Arial, Helvetica, sans-serif;
-      font-size: 0.8rem; text-transform: uppercase;
-      color: #444; margin-bottom: 0.5rem;
+      font-family: 'Signifier', "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", Georgia, serif;
+      font-size: 0.95rem;
+      color: #252A2F; margin-bottom: 0.5rem;
       letter-spacing: 0.05em;
+    }
+    .section-title-num {
+      font-family: 'SF Mono', SFMono-Regular, ui-monospace, Menlo, Monaco, monospace;
+      font-size: 0.8rem;
+      color: #252A2F; margin-bottom: 0.5rem;
+      letter-spacing: 0.05em;
+    }
+    .year-col ul {
+      font-family: 'SF Mono', SFMono-Regular, ui-monospace, Menlo, Monaco, monospace;
     }
     .presence-col ul, .arrow-col ul,
     .teams-col ul, .year-col ul {
@@ -205,22 +230,22 @@
     <div class="content">
       <header class="header">
         <div>
-          <h1>Alexander De Saram · 杨舜涛</h1>
-          <div class="tagline">贯通系统与洞察 ｜ Bridging Systems &amp; Insights</div>
+          <h1>Alexander De Saram</h1>
         </div>
-        <span class="section-title">[1]</span>
+        <span class="section-title-num">[1]</span>
       </header>
 
       <div class="intro">
-        <p>I work at the intersection of infrastructure and intelligence—designing systems that are scalable, interpretable, and globally impactful.</p>
-        <p>Currently building network architecture at Netflix and researching multilingual AI with PKU & DeepSeek. Previously at Cisco.</p>
+        <p>I work at the intersection of infrastructure and intelligence, designing systems that are scalable, interpretable, and globally impactful.</p>
+        <p>Currently building network architecture at Netflix and researching multilingual AI with PKU & DeepSeek.</p>
+        <p>Previously at Cisco.</p>
       </div>
 
       <hr />
 
       <div class="grid">
         <div class="presence-col">
-          <div class="section-title">Presence │ 踪迹</div>
+          <div class="section-title">Presence</div>
           <ul>
             <li><a href="mailto:alex.desaram@berkeley.edu">Email</a></li>
             <li><a href="https://linkedin.com/in/alexdesaram">LinkedIn</a></li>
@@ -234,7 +259,7 @@
         </div>
 
         <div class="arrow-col">
-          <div class="section-title">[2]</div>
+          <div class="section-title-num">[2]</div>
           <ul>
             <li><a href="mailto:alex.desaram@berkeley.edu" target="_blank" rel="noopener noreferrer"><span class="arrow-svg" aria-hidden="true">
   <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
@@ -265,7 +290,7 @@
         </div>
 
         <div class="teams-col">
-          <div class="section-title">Teams │ 历程</div>
+          <div class="section-title">Teams</div>
           <ul>
             <li><span class="dot" style="background:#d81f26;"></span>Netflix</li>
             <li><span class="dot" style="background:#4d6bfe;"></span>DeepSeek</li>
@@ -275,7 +300,7 @@
         </div>
 
         <div class="year-col">
-          <div class="section-title">[3]</div>
+          <div class="section-title-num">[3]</div>
           <ul>
             <li>2025-</li>
             <li>2025-</li>
