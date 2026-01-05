@@ -12,12 +12,31 @@ permalink: /blog/
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>{{ site.title }} · Blog</title>
   <style>
+    @font-face {
+      font-family: 'Signifier';
+      src: url('/assets/fonts/test-signifier-light.woff2') format('woff2');
+      font-weight: 300;
+      font-style: normal;
+    }
+    @font-face {
+      font-family: 'Signifier';
+      src: url('/assets/fonts/test-signifier-regular.woff2') format('woff2');
+      font-weight: 400;
+      font-style: normal;
+    }
+    @font-face {
+      font-family: 'Signifier';
+      src: url('/assets/fonts/test-signifier-medium.woff2') format('woff2');
+      font-weight: 500;
+      font-style: normal;
+    }
     @keyframes fadeIn { from { opacity:0; transform:translateY(30px);} to {opacity:1; transform:translateY(0);} }
     html, body {
       height:100%; margin:0; padding:0;
       background:#fff;
-      font-family:Georgia, "Times New Roman", Times, serif;
-      color:#222; line-height:1.5;
+      font-family: 'Signifier', "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", Georgia, serif;
+      font-weight: 400;
+      color:#252A2F; line-height:1.5;
     }
     .main {
       display:flex; flex-direction:column; align-items:center;
@@ -60,10 +79,11 @@ permalink: /blog/
     }
     .back-link:hover { opacity:0.7; }
     h1 {
-      font-family:Arial, Helvetica, sans-serif;
+      font-family: 'Signifier', "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", Georgia, serif;
+      font-weight: 500;
       font-size:1.5rem;
       margin:0 0 0.5rem;
-      color:#111;
+      color:#252A2F;
     }
     .post-list {
       list-style:none; margin:0; padding:0; width:100%;
@@ -74,12 +94,12 @@ permalink: /blog/
     }
     .post-item:last-child { border-bottom:none; }
     .post-link {
-      font-size:1.25rem; color:#111; text-decoration:none;
+      font-size:1.25rem; color:#252A2F; text-decoration:none;
       transition:opacity 0.2s;
     }
     .post-link:hover { opacity:0.7; }
     .post-date {
-      font-family:Arial, Helvetica, sans-serif;
+      font-family: 'SF Mono', SFMono-Regular, ui-monospace, Menlo, Monaco, monospace;
       font-size:0.9rem; color:#666;
       white-space:nowrap; margin-left:1rem;
     }
